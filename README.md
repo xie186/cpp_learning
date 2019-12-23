@@ -17,3 +17,5 @@ https://github.com/jay16udani/Cpp-for-C-Programmers-Part-A-Coursera
 https://github.com/taiyang-li/learning_cpp
 
 https://github.com/zerofang/PKU-Coursera-CPP-Programming
+
+http://cxsjsxmooc.openjudge.cn/
